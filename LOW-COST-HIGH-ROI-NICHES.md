@@ -105,6 +105,28 @@ Don't cold-pitch. **Build first, pitch second:**
 - **Upsell ongoing SEO and content** — once the site is live, offer monthly blog posts, review management, or local SEO for $99–$149/month.
 - **Referral incentive** — offer existing clients $100 off their next month for every referral that signs up.
 
+#### Real Leads: North York, Toronto Businesses Without Proper Websites
+
+Here are verified local businesses in the North York area that have **no dedicated website** — only directory listings, Fresha booking pages, or a bare-bones SalonPages placeholder. These are real prospects you could approach with a demo site this week.
+
+| Business | Address | Phone | Current Online Presence | Opportunity |
+|----------|---------|-------|------------------------|-------------|
+| **Henry's Barber Shop** | 1868 Avenue Rd, North York, ON M5M 3Z6 | 416-781-1774 | Fresha booking page + Yelp/Google reviews only. No own website. | 4.7 stars, 100+ reviews — great business with zero web presence. A simple site with services, gallery, and booking link would be a huge win for them. |
+| **Don East Barber Shop** | 1230 Lawrence Ave E, North York, ON M3A 1B9 | 416-447-7531 | Bare SalonPages placeholder (doneastbarbershop.salonpages.ca) + Yelp. No real website. | 12 Yelp reviews, established business. Their current "site" is a generic template with almost no content. |
+
+**How to use this list:**
+1. Open each business's Google Maps listing — confirm no website link (or a dead/placeholder link)
+2. Build a demo site for one of them in 30-60 minutes using Framer or Durable
+3. Walk in during business hours with the preview on your phone/tablet
+4. Say: *"Hey, I'm [Name] — I build websites for local businesses. I actually made one for your shop already, want to see it?"*
+
+**Tools to find more leads like these in North York:**
+- [B2BLeadFinder — Businesses Near Me Without a Website](https://b2bleadfinder.io/tools/businesses-near-me-without-website) — enter "North York" and any industry
+- [Thyonix Lead Finder](https://www.thyonix.com/tools/find-businesses-without-websites) — free tool, scans Google Maps
+- [NoSiteSearch](https://www.nositesearch.com/) — search by city and category
+- [D7 Lead Finder — Toronto businesses without websites](https://d7leadfinder.com/app/view-leads/36716379/)
+- **Manual Google Maps method:** Search "barbershop North York" or "restaurant North York" on Google Maps, and check each listing for a website link — no link = your lead
+
 ---
 
 ## Tier 2: Revenue in 2-4 Weeks
