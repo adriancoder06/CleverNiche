@@ -44,11 +44,72 @@ A curated, research-backed guide to niches with minimal startup costs and fast t
   3. Reach out to 20 small/mid brands on Instagram or via email
   4. Join UGC platforms like Billo, JoinBrands, or Collabstr
 
+### 4. AI Website Building for Local Businesses (NEW — High Conviction Pick)
+- **Startup Cost:** $0–$50/month (AI builder subscription)
+- **Revenue Potential:** $2,500–$5,000 per site (one-time) + $99–$149/month recurring per client
+- **Why Now:** ~37% of small businesses in the US still have no website at all. Among those that do, nearly half have sites so slow or outdated they're invisible to Google and AI search tools (ChatGPT Search, Google SGE). These businesses are being erased from discovery — and most owners don't know how to fix it.
+
+#### Why This Niche is a Goldmine
+
+The magic of this niche is the **skill-to-value gap**: AI tools like Bolt, Framer, Durable, and Wix AI let you build a professional site in 1-2 hours that would have taken a developer days. You're not selling "web design" — you're selling **more customers, more phone calls, and showing up on Google**. That reframing is what closes deals.
+
+#### How to Find Clients (Free Methods)
+
+1. **Google Maps Prospecting (Fastest):** Search business categories ("plumber near me," "bakery," "salon," "HVAC") in your city. Check each listing — businesses without a website link are your leads.
+2. **Google Search Operators:** Search `site:facebook.com [industry] [city]` to find businesses whose only online presence is a Facebook page.
+3. **Yelp / Yellow Pages:** Cross-reference listings that have reviews but no website link.
+4. **Drive Around:** Physically visit local shopping plazas and note businesses with no website on their signage or Google listing.
+5. **Lead Finder Tools:** Free tools like [Thyonix](https://www.thyonix.com/tools/find-businesses-without-websites), [B2BLeadFinder](https://b2bleadfinder.io/tools/find-businesses-without-websites), or [NoSiteSearch](https://www.nositesearch.com/) automate this process by city and industry.
+
+#### The Demo-First Sales Strategy (What Actually Works)
+
+Don't cold-pitch. **Build first, pitch second:**
+1. Find a business without a website (or with a terrible one)
+2. Use an AI builder to create a demo site for them in 30-60 minutes
+3. Walk in or send a personalized message: *"Hey [Name], I made this for [Business Name] — take a look: [preview link]. If you want it live, I can set it up for you this week."*
+4. This approach converts dramatically better than cold pitches because the owner can see exactly what they're getting
+
+#### Pricing Models
+
+| Model | Price | Best For |
+|-------|-------|----------|
+| One-time build | $500–$2,000 | Budget-conscious clients |
+| One-time + monthly maintenance | $500–$1,500 upfront + $99–$149/mo | Best overall (recurring revenue) |
+| Monthly subscription (site included) | $149–$249/mo (no upfront) | Removes price objection entirely |
+| Premium build (e-commerce, booking) | $2,500–$5,000 | Restaurants, salons, service businesses |
+
+#### Best AI Tools for Building Client Sites
+
+| Tool | Best For | Cost |
+|------|----------|------|
+| Framer | Polished marketing/portfolio sites | $15–$45/mo |
+| Durable | Service businesses, fastest setup | Free–$25/mo |
+| Wix AI | All-purpose small business sites | Free–$16/mo |
+| Bolt.new | Custom-coded sites with AI | Free tier available |
+| GoDaddy Airo | Simplest possible setup | $11–$25/mo |
+
+#### The 2-Week Sprint for This Niche
+
+| Day | Action |
+|-----|--------|
+| **1-2** | Pick your AI builder (Framer or Durable recommended). Learn it by building 2 practice sites. |
+| **3-4** | Prospect 50 local businesses without websites using Google Maps. |
+| **5-7** | Build 3-5 personalized demo sites for your best prospects. |
+| **8-10** | Walk in or email/DM each prospect with the demo link. Follow up. |
+| **11-12** | Close your first deal. Publish the site and collect payment. |
+| **13-14** | Ask for referrals. Repeat the demo-first process with the next batch. |
+
+#### Scaling Tips
+- **Niche down by industry** — become "the website guy for contractors" or "the website person for salons." You'll reuse templates and close faster.
+- **Bundle with Google Business Profile optimization** — most of these businesses also have incomplete or unclaimed Google listings. Offer to fix that too for an extra $200–$500.
+- **Upsell ongoing SEO and content** — once the site is live, offer monthly blog posts, review management, or local SEO for $99–$149/month.
+- **Referral incentive** — offer existing clients $100 off their next month for every referral that signs up.
+
 ---
 
 ## Tier 2: Revenue in 2-4 Weeks
 
-### 4. Niche SEO Consulting
+### 5. Niche SEO Consulting
 - **Startup Cost:** $0–$200 (SEO tools have free tiers)
 - **Revenue Potential:** $3,000–$10,000/month per client
 - **Why Now:** Every local business needs SEO but can't afford big agencies. Specializing in one vertical (dentists, plumbers, lawyers, restaurants) lets you reuse strategies.
@@ -58,7 +119,7 @@ A curated, research-backed guide to niches with minimal startup costs and fast t
   3. Present findings and offer a monthly retainer ($500–$2,000/month)
   4. Deliver results with a repeatable playbook
 
-### 5. Print-on-Demand (Niche Designs)
+### 6. Print-on-Demand (Niche Designs)
 - **Startup Cost:** $0–$50
 - **Revenue Potential:** $1,000–$10,000/month
 - **Why Now:** POD margins are 55-70% on items like custom mugs, t-shirts, and phone cases. No inventory risk — items are made only after a sale.
@@ -69,7 +130,7 @@ A curated, research-backed guide to niches with minimal startup costs and fast t
   - Meme-culture designs for Gen Z
 - **Platforms:** Printful + Etsy, Redbubble, Merch by Amazon, TeePublic
 
-### 6. Social Media Management for Local Businesses
+### 7. Social Media Management for Local Businesses
 - **Startup Cost:** $0–$100
 - **Revenue Potential:** $1,000–$4,000/month per client
 - **Why Now:** Small businesses know they need social media but lack time. Managing 3-4 clients at $1,000/month each is very achievable.
@@ -83,7 +144,7 @@ A curated, research-backed guide to niches with minimal startup costs and fast t
 
 ## Tier 3: Build Now, Earn in 2-6 Weeks
 
-### 7. Niche Affiliate Content (Blog/YouTube/TikTok)
+### 8. Niche Affiliate Content (Blog/YouTube/TikTok)
 - **Startup Cost:** $0–$100 (free platforms or ~$50/year for hosting)
 - **Revenue Potential:** $500–$15,000+/month
 - **Top Niches by Revenue (CPM/RPM Data):**
@@ -96,7 +157,7 @@ A curated, research-backed guide to niches with minimal startup costs and fast t
   | AI Tools & Productivity | $8–$15 | High (Growing Fast) |
 - **Fastest Path:** TikTok/YouTube Shorts reviewing AI tools or personal finance apps with affiliate links
 
-### 8. AI Workflow Automation Agency
+### 9. AI Workflow Automation Agency
 - **Startup Cost:** $0–$200
 - **Revenue Potential:** $5,000–$20,000/month
 - **Why Now:** Businesses want to automate repetitive tasks but don't know how. Build automations with no-code tools like Make.com, Zapier, or n8n.
@@ -107,7 +168,7 @@ A curated, research-backed guide to niches with minimal startup costs and fast t
   - Lead capture and follow-up systems
   - Invoice and reporting automation
 
-### 9. Online Tutoring / Micro-Courses
+### 10. Online Tutoring / Micro-Courses
 - **Startup Cost:** $0–$100
 - **Revenue Potential:** $2,000–$8,000/month
 - **Why Now:** Online tutoring pays $30–$75+/hour. Micro-courses (under 2 hours) on specific skills sell for $27–$97 each on platforms like Udemy, Skillshare, or Gumroad.
@@ -117,7 +178,7 @@ A curated, research-backed guide to niches with minimal startup costs and fast t
 
 ## Tier 4: Service-Based (Physical, Still Low Cost)
 
-### 10. Pressure Washing / Mobile Detailing
+### 11. Pressure Washing / Mobile Detailing
 - **Startup Cost:** $200–$1,000
 - **Revenue Potential:** $3,000–$4,000/month part-time
 - **Why Now:** Break even after just 1-2 jobs. Recurring revenue from commercial clients.
@@ -184,3 +245,10 @@ If you want revenue within 14 days, here's the priority order:
 - [Best Digital Products to Sell in 2026 – Payhip](https://payhip.com/blog/digital-products/)
 - [Most Profitable YouTube Niches 2026 (Real RPM Data) – OutlierKit](https://outlierkit.com/blog/most-profitable-youtube-niches)
 - [Make Money Freelancing AI 2026 – AbhyashSuchi](https://abhyashsuchi.in/make-money-freelancing-ai-2026-high-income/)
+- [How to Sell AI Websites to Local Businesses in 2026 – Medium](https://medium.com/the-ai-studio/how-to-sell-ai-websites-to-local-businesses-in-2026-5165a41fecdf)
+- [How to Sell Websites to Local Businesses with No-Code + AI – Adam Erhart](https://www.adamerhart.com/how-to-sell-websites-to-local-businesses/)
+- [Find Local Businesses Without Websites (Web Design Sales) – Origami](https://origami.chat/blog/find-local-businesses-without-websites-web-design-sales)
+- [How to Find Local Businesses Without a Website (Free Methods) 2026 – Trovn](https://trovn.io/blog/find-local-businesses-without-website)
+- [Find Businesses Without Websites – B2BLeadFinder](https://b2bleadfinder.io/tools/find-businesses-without-websites)
+- [AI Website Builders for Small Businesses: 2026 Picks – AI Flow Review](https://aiflowreview.com/ai-website-builders/)
+- [Will Freelance Web Designers Survive No-Code and AI? – PC Tech Magazine](https://pctechmag.com/2026/04/will-freelance-website-designers-survive-the-rise-of-no-code-and-ai-platforms/)
